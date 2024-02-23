@@ -2,8 +2,8 @@
   .navbar {
     text-align: center;
   }
-.list-items .my-btn {
-   width: 150px;
+  .list-items .my-btn {
+    width: 150px;
   }
   .section-one {
     display: flex;
@@ -30,27 +30,26 @@
   }
 }
 @media only screen and (max-width: 530px) {
-    .section-one .left{
-        width: 100%;
-    }
-    .section-one .left .one{
-        font-size: 2.3em;
-    }
-    .section-one .left .two{
-        font-size: 1em;
-    }
-    .section-one .right{
-        width: 100%;
-        height: 650px;
-    }
-    .section-one .right form input{
-        width: 100%;
-    }
-    .section-one .right form button{
-        width: 100%;
-    }
-    .section-one .right .twitter{
-        width: 100%;
-    }
-    
+  .section-one .left {
+    width: 100%;
+  }
+  .section-one .left .one {
+    font-size: 2.3em;
+  }
+  .section-one .left .two {
+    font-size: 1em;
+  }
+  .section-one .right {
+    width: 100%;
+    height: 650px;
+  }
+  .section-one .right form input {
+    width: 100%;
+  }
+  .section-one .right form button {
+    width: 100%;
+  }
+  .section-one .right .twitter {
+    width: 100%;
+  }
 }
